@@ -1,7 +1,5 @@
 ### Hi there 👋, This is Talha Bin Ashraf 🤵
 #### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
-![Full Stack Quality Assurance Engineer 🕵️‍♂️ ](https://thumbs.dreamstime.com/b/quality-assurance-service-guarantee-standard-internet-business-technology-concept-quality-assurance-service-guarantee-standard-105559542.jpg)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  HTML / CSS/ Java / Selenium / Cypress

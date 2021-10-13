@@ -9,7 +9,7 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
                                                                                                                                   
 
-Professional Summary:
+####Professional Summary:
 
 ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.
 ●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).
@@ -54,7 +54,7 @@ Professional Summary:
 #### QA Engineer | Global iTech Solutions(GITS)
 December 2020 – Present
 
-Responsibilities:  
+####Responsibilities:  
 •	Creating and developing Test Plans, Test Cases, Test Scripts, Test Reports, and Defect Reports on Mobile & Web Applications for both Manual and Automation tests.
 •	Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC).
 •	Execute Software Testing on Web applications & Web Service (RESTful).
@@ -68,7 +68,7 @@ Environment: Java, Selenium Web Driver, TestNG, Maven, Jira, POM(Page Object Mod
 #### Software Quality Assurance Engineer | Riseup labs
   October 2018 - November 2020
 
-Responsibilities:
+####Responsibilities:
 
 •	Test the web-based, Mobile Based solution with selenium Web-driver & IDE.
 •	Execute test cases after test analysis is done 
@@ -82,7 +82,7 @@ Responsibilities:
 #### Software QA Engineer | Enosis Solution
   June 2017 - September 2018
 
-Responsibilities:
+####Responsibilities:
 
 I execute software testing activities to ensure that client requirement is fulfilled, the software is free from core service disrupting bugs and proper software testing guidelines are followed. I also use test automation tools such as selenium to automate repetitive tasks such as regression testing, build download, build deployment, etc. I am familiar with project management tools like JIRA and Github issues which are used to ease the transition of project workload among team members and provide a better high-level overview of the current project status.
 
@@ -92,7 +92,7 @@ Environment: Java, Selenium Web Driver, TestNG, Maven, Jmeter, Agile , MS Excel.
 #### JR Network Engineer | Mozumder Group
   March 2017 - June 2017
 
-Responsibilities:
+####Responsibilities:
 •	Configure networking LAN, WAN, VPN & Wireless Router, Switch, Router, Firewall
 •	Local Mail server maintenance & Microsoft Office 365 Outlook POP3 and Exchange mail support
 •	Network/Share/Barcode/Printer configure and support

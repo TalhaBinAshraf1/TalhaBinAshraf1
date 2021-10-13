@@ -1,3 +1,5 @@
+https://media-exp1.licdn.com/dms/image/C4D16AQGp1o53w7EkZg/profile-displaybackgroundimage-shrink_200_800/0/1634162670585?e=1639612800&v=beta&t=6sNKXvc8IEPkj5AR2atQ3rp00wPJIqzsn2H7WHzePTk
+
 ### Hi there 👋, This is Talha Bin Ashraf 🤵
 #### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
 

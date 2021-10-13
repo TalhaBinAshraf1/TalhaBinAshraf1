@@ -38,7 +38,7 @@ Professional Summary:
 ●	Customer focused self-motivated, team person, good analytical and problem-solving skills and ability to quickly learn new technologies. Good communication skills with commitment, perseverance, detail oriented and positive attitude.
 ●	Participated in project review meetings to monitor progress of the project to ensure timely completion and delivery of the project to the client.
 
-**Technical Skills:**
+#### Technical Skills:
 
          *Languages	Java, JavaScript.
          *Testing Tool	Selenium Web Driver, Postman.
@@ -50,9 +50,9 @@ Professional Summary:
          *Operating Systems	Linux, Windows, Mac
 
 
-**Professional Experience**
+#### Professional Experience
 
-**QA Engineer | Global iTech Solutions(GITS)
+#### QA Engineer | Global iTech Solutions(GITS)
 December 2020 – Present
 
 Responsibilities:  
@@ -66,7 +66,7 @@ Responsibilities:
 
 Environment: Java, Selenium Web Driver, TestNG, Maven, Jira, POM(Page Object Model), Postman
 
-**Software Quality Assurance Engineer | Riseup labs
+#### Software Quality Assurance Engineer | Riseup labs
   October 2018 - November 2020
 
 Responsibilities:
@@ -80,7 +80,7 @@ Responsibilities:
 •	Check the app thoroughly to ensure that customer experience matches our goals
 
 
-**Software QA Engineer | Enosis Solution
+#### Software QA Engineer | Enosis Solution
   June 2017 - September 2018
 
 Responsibilities:
@@ -90,7 +90,7 @@ I execute software testing activities to ensure that client requirement is fulfi
 Environment: Java, Selenium Web Driver, TestNG, Maven, Jmeter, Agile , MS Excel.
 
 
-**JR Network Engineer | Mozumder Group
+#### JR Network Engineer | Mozumder Group
   March 2017 - June 2017
 
 Responsibilities:

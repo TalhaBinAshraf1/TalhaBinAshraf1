@@ -5,7 +5,7 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
-- 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570 
+- 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570  🙌
 
                                                                                                                                   
 
@@ -39,17 +39,17 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
 #### Technical Skills:
 
-         *Languages :	Java, JavaScript.
-         *Testing Tool :	Selenium Web Driver, Postman.
-         *IDE :	Visual Studio, IntelliJ IDEA.
-         *Web Debugging Tool :	XPath, FirePath
-         *Databases :	Oracle, SQL Server, MS Access
-         *Browsers :	Internet Explorer, Firefox, Google Chrome
-         *Test Framework :	 Junit, TestNG
-         *Operating Systems :	Linux, Windows, Mac
+         ✔ Languages :	Java, JavaScript.
+         ✔ Testing Tool :	Selenium Web Driver, Postman.
+         ✔ IDE :	Visual Studio, IntelliJ IDEA.
+         ✔ Web Debugging Tool :	XPath, FirePath
+         ✔ Databases :	Oracle, SQL Server, MS Access
+         ✔ Browsers :	Internet Explorer, Firefox, Google Chrome
+         ✔ Test Framework :	 Junit, TestNG
+         ✔ Operating Systems :	Linux, Windows, Mac
 
 
-#### Professional Experience
+#### Professional Experience 🤵
 
 #### QA Engineer | Global iTech Solutions(GITS)
 December 2020 – Present

@@ -39,14 +39,14 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
 #### Technical Skills:
 
-         *Languages	Java, JavaScript.
-         *Testing Tool	Selenium Web Driver, Postman.
-         *IDE	Visual Studio, IntelliJ IDEA.
-         *Web Debugging Tool	XPath, FirePath
-         *Databases	Oracle, SQL Server, MS Access
-         *Browsers	Internet Explorer, Firefox, Google Chrome
-         *Test Framework	 Junit, TestNG
-         *Operating Systems	Linux, Windows, Mac
+        #### *Languages :	Java, JavaScript.
+        #### *Testing Tool :	Selenium Web Driver, Postman.
+        #### *IDE :	Visual Studio, IntelliJ IDEA.
+        #### *Web Debugging Tool :	XPath, FirePath
+        #### *Databases :	Oracle, SQL Server, MS Access
+        #### *Browsers :	Internet Explorer, Firefox, Google Chrome
+        #### *Test Framework :	 Junit, TestNG
+        #### *Operating Systems :	Linux, Windows, Mac
 
 
 #### Professional Experience

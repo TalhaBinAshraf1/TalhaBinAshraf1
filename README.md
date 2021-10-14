@@ -6,35 +6,33 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
 - 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570  🙌
-
                                                                                                                                   
 <h4> Professional Summary: </h4>
 
 <br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>
 <br>●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).</br>
-●	Experienced in SQA (Software Quality Assurance) including Manual and Automated testing with tools such as Selenium RC/WebDriver/IDE/Grid, HP Quick Test Professional and Junit/TestNG, Load Runner, Quality Center, JMeter, JIRA, SOAPUI and Version One.
-●	Good understanding of OOPS concepts and basics of JAVA.
-●	Expertise in creating test data and end to end testing for POS devices/applications. 
-●	Expert on Selenium Automation using WebDriver. 
-●	Proficient in using SoapUI/Postman for testing Web Services and used various types of assertions such as soap fault, Contains, XPath etc.
-●	Expertise in functional testing AUT using Selenium IDE and Selenium WebDriver using JUNIT ,TESTNG testing framework
-●	Worked in javascript based technologies like nodejs, angular.js, cucumber js, protractor, and cucumber.
-●	Extensive experience in Systems testing, Functional testing, Integration testing, Manual testing, Automated testing, Big Data testing, User Acceptance testing and Regression testing.
-●	Proficient in different forms of testing like Manual testing, Unit testing, Integration testing, Regression testing, Performance testing and Non-functional testing. 
-●	Worked extensively on performing Black Box Testing, System Testing, Smoke Testing, Regression Testing and User Acceptance Testing.
-●	Automation experience in Selenium Web driver using Java.
-●	Wrote automation scripts in Java using Selenium Web driver to automate UI testing.
-●	Experience using different kinds of locators like id, class, Xpath, CSS selector, etc. to locate web elements using Selenium.
-●	Proven ability in designing and creating automation frameworks for web-based. Applications using Java, JUNIT,TestNG, Selenium Web Driver, Maven.
-●	Performed Automated Web Services testing for REST API Calls. Performed API Testing using Postman.
-●	Developed automated tests using Selenium WebDriver with developers for Continuous regression testing using Azure Devops and Jenkins and reducing manual testing using Selenium, TestNG and Maven.
-●	Experience in performing Back end testing, Mobile Testing, Black Box testing and Sanity testing.
-●	Good Knowledge in Web/Internet testing of HTML, XML, JavaScript.	
-●	Experience in Data Driven Testing, Cross browser testing and Parallel Test Execution using Selenium WebDriver, TestNG.
-●	Experience in developing and executing test cases Manually and developed Automation script with Selenium IDE, Grid, Selenium RC, Selenium Web driver, Jenkins. 
-●	QA Automation tools: Selenium, TestNG, JUnit.
-●	Customer focused self-motivated, team person, good analytical and problem-solving skills and ability to quickly learn new technologies. Good communication skills with commitment, perseverance, detail oriented and positive attitude.
-●	Participated in project review meetings to monitor progress of the project to ensure timely completion and delivery of the project to the client.
+<br>●	Experienced in SQA (Software Quality Assurance) including Manual and Automated testing with tools such as Selenium RC/WebDriver/IDE/Grid, HP Quick Test Professional and Junit/TestNG, Load Runner, Quality Center, JMeter, JIRA, SOAPUI and Version One.</br>
+<br>●	Good understanding of OOPS concepts and basics of JAVA.</br>
+<br>●	Expertise in creating test data and end to end testing for POS devices/applications.</br>
+<br>●	Expert on Selenium Automation using WebDriver.</br> 
+<br>●	Proficient in using SoapUI/Postman for testing Web Services and used various types of assertions such as soap fault, Contains, XPath etc.</br>
+<br>●	Expertise in functional testing AUT using Selenium IDE and Selenium WebDriver using JUNIT ,TESTNG testing framework</br>
+<br>●	Worked in javascript based technologies like nodejs, angular.js, cucumber js, protractor, and cucumber.</br>
+<br>●	Extensive experience in Systems testing, Functional testing, Integration testing, Manual testing, Automated testing, Big Data testing, User Acceptance testing and Regression testing.</br>
+<br>●	Proficient in different forms of testing like Manual testing, Unit testing, Integration testing, Regression testing, Performance testing and Non-functional testing.</br> 
+<br>●	Worked extensively on performing Black Box Testing, System Testing, Smoke Testing, Regression Testing and User Acceptance Testing.</br>
+<br>●	Automation experience in Selenium Web driver using Java.</br>
+<br>●	Wrote automation scripts in Java using Selenium Web driver to automate UI testing.</br>
+<br>●	Experience using different kinds of locators like id, class, Xpath, CSS selector, etc. to locate web elements using Selenium.</br>
+<br>●	Proven ability in designing and creating automation frameworks for web-based. Applications using Java, JUNIT,TestNG, Selenium Web Driver, Maven.</br>
+<br>●	Performed Automated Web Services testing for REST API Calls. Performed API Testing using Postman.</br>
+<br>●	Developed automated tests using Selenium WebDriver with developers for Continuous regression testing using Azure Devops and Jenkins and reducing manual testing using Selenium, TestNG and Maven.</br>
+<br>●	Experience in performing Back end testing, Mobile Testing, Black Box testing and Sanity testing.</br>
+<br>●	Experience in Data Driven Testing, Cross browser testing and Parallel Test Execution using Selenium WebDriver, TestNG.</br>
+<br>●	Experience in developing and executing test cases Manually and developed Automation script with Selenium IDE, Grid, Selenium RC, Selenium Web driver, Jenkins.</br>
+<br>●	QA Automation tools: Selenium, TestNG, JUnit.</br>
+<br>●	Customer focused self-motivated, team person, good analytical and problem-solving skills and ability to quickly learn new technologies. Good communication skills with commitment, perseverance, detail oriented and positive attitude.</br>
+<br>●	Participated in project review meetings to monitor progress of the project to ensure timely completion and delivery of the project to the client.</br>
 
 #### Technical Skills:
 

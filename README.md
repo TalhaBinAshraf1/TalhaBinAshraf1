@@ -8,7 +8,6 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 - 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570  🙌
 
                                                                                                                                   
-
 <h4> Professional Summary: </h4>
 
 <br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>

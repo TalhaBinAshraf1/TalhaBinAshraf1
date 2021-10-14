@@ -9,7 +9,7 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
                                                                                                                                   
 
-####Professional Summary:
+<h2> Professional Summary: </h2>
 
 <br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>
 <br>●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).</br>

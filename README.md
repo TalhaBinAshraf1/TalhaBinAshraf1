@@ -11,8 +11,8 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 
 ####Professional Summary:
 
-●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.
-●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).
+<br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>
+<br>●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).</br>
 ●	Experienced in SQA (Software Quality Assurance) including Manual and Automated testing with tools such as Selenium RC/WebDriver/IDE/Grid, HP Quick Test Professional and Junit/TestNG, Load Runner, Quality Center, JMeter, JIRA, SOAPUI and Version One.
 ●	Good understanding of OOPS concepts and basics of JAVA.
 ●	Expertise in creating test data and end to end testing for POS devices/applications. 

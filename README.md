@@ -1,4 +1,3 @@
-
 ### Hi there 👋, This is Talha Bin Ashraf 🤵
 #### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
 

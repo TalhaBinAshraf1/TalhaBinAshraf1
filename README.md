@@ -37,18 +37,17 @@ Skills:  HTML / CSS/ Java / Selenium / Cypress / JS
 #### Technical Skills:
 
          ✔ Languages :	Java, JavaScript.
-         ✔ Testing Tool :	Selenium Web Driver, Postman.
-         ✔ IDE :	Visual Studio, IntelliJ IDEA.
-         ✔ Web Debugging Tool :	XPath, FirePath
+         ✔ Testing Tool :	Selenium Web Driver, Postman, Cypress.
+         ✔ IDE :	Visual Studio, IntelliJ IDEA
          ✔ Databases :	Oracle, SQL Server, MS Access
          ✔ Browsers :	Internet Explorer, Firefox, Google Chrome
-         ✔ Test Framework :	 Junit, TestNG
-         ✔ Operating Systems :	Linux, Windows, Mac
+         ✔ Test Framework :	 Junit, TestNG , Mocha, Chai
+         ✔ Operating Systems :	Linux, Windows
 
 
 #### Professional Experience 🤵
 
-#### QA Engineer | Global iTech Solutions(GITS)
+#### QA Engineer | Global iTech Solutions(GITS) 🌍
 December 2020 – Present
 
 ####Responsibilities:  

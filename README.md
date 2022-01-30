@@ -1,13 +1,13 @@
 ## Hi there 👋, This is Talha Bin Ashraf 🤵
-#### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
+### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
 
-Skills:  HTML / CSS/ Java / Selenium / Cypress / JS 
+#### Skills:  HTML | CSS | Java | Selenium | Cypress | Java Script 
 
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
 - 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570  🙌
                                                                                                                                   
-<h4> Professional Summary: </h4>
+<h3> Professional Summary: </h3>
 
 <br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>
 <br>●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).</br>

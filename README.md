@@ -1,4 +1,4 @@
-### Hi there 👋, This is Talha Bin Ashraf 🤵
+## Hi there 👋, This is Talha Bin Ashraf 🤵
 #### Full Stack Quality Assurance Engineer 🕵️‍♂️ 
 
 Skills:  HTML / CSS/ Java / Selenium / Cypress / JS 

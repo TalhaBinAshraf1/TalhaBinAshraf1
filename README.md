@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
-- 📫 How to reach me: talhabinashraf@gmail.com / Contact:01763450570  🙌
+- 📫 How to reach me: talhabinashraf@gmail.com / Contact : 01763450570  🙌
 - 👨‍💼 You Can hire me Through Upwork 🌏 - ✔ https://www.upwork.com/freelancers/~01689d9aed1499ff0d 🌍
                                                                                                                                   
 <h3> Professional Summary: </h3>

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
-- 📫 How to reach me: talhabinashraf@gmail.com / Contact : 01763450570  🙌
+- 📫 How to reach me:  Email- talhabinashraf@gmail.com  ✔Cell : 01763450570  🙌
 - 👨‍💼 You Can hire me Through Upwork 🌏 - ✔ https://www.upwork.com/freelancers/~01689d9aed1499ff0d 🌍
                                                                                                                                   
 <h3> Professional Summary: </h3>
@@ -28,7 +28,6 @@
 <br>●	Proven ability in designing and creating automation frameworks for web-based. Applications using Java, JUNIT,TestNG, Selenium Web Driver, Maven.</br>
 <br>●	Performed Automated Web Services testing for REST API Calls. Performed API Testing using Postman.</br>
 <br>●	Developed automated tests using Selenium WebDriver with developers for Continuous regression testing using Azure Devops and Jenkins and reducing manual testing using Selenium, TestNG and Maven.</br>
-<br>●	Experience in performing Back end testing, Mobile Testing, Black Box testing and Sanity testing.</br>
 <br>●	Experience in Data Driven Testing, Cross browser testing and Parallel Test Execution using Selenium WebDriver, TestNG.</br>
 <br>●	Experience in developing and executing test cases Manually and developed Automation script with Selenium IDE, Grid, Selenium RC, Selenium Web driver, Jenkins.</br>
 <br>●	QA Automation tools: Selenium, TestNG, JUnit.</br>

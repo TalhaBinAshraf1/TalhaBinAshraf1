@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on :✔ Global iTech Solutions (GITS)  🌏 
 - 🌱 I’m currently learning ✔ SQA 💻 
-- 📫 How to reach me:  Email- talhabinashraf@gmail.com  ✔Cell : 01763450570  🙌
+- 📫 How to reach me:  Email- talhabinashraf@gmail.com  ✔Cell : +8801763450570  🙌
 - 👨‍💼 You Can hire me Through Upwork 🌏 - ✔ https://www.upwork.com/freelancers/~01689d9aed1499ff0d 🌍
                                                                                                                                   
-<h3> Professional Summary: </h3>
+<h3> Professional Summary: </h3> 
 
 <br> ●	Over 5 years in Information Technology as a QA Engineer/Analyst with experience in analysis, design, development and testing of Client/Server and Web Based Applications.</br>
 <br>●	Strong Knowledge and experience of all phases of SDLC (Software Development Life Cycle), and QALC (Quality Assurance Life Cycle).</br>

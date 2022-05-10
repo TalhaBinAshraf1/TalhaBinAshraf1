@@ -51,18 +51,18 @@
 December 2020 – Present
 
 ####Responsibilities:  
-• Strong understanding of STLC from test planning to defect tracking and managing defect life cycle.
-• Strong knowledge in QA Principle and Software Development Life Cycle.
-• Hands-on experience in Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC).
-• Hands-on experience with Software Testing on Mobile, Web applications & Web Service (RESTful).
-• Hands-on experience in Agile-Scrum Framework.
-• Hands-on experience in creating and developing Test Plans, Test Cases, Test Scripts, Test Reports, and Defect Reports on Mobile & Web Applications for both Manual and Automation tests.
-• Outstanding Knowledge with Java Oops Concepts (Abstraction, Encapsulation, Polymorphism & Inheritance).
-• Hands-on experience in Designing, Creating, and maintaining a framework for web-based applications leveraging Java with Selenium WebDriver, Java binding Oops concept, TestNG, POM (Page Object Model) & Data-driven framework.
-• Hands-on experience in executing the Smoke test, Functional Test, Integration Test, and Regression Test suite.
-• Hands-on experience in REST API web service testing using POSTMAN & RestAssured.
-• Hands-on experience in using Version Control tools like Git, GitHub
-• Good understanding of Application Server and Database Server (MySQL).
+1. Strong understanding of STLC from test planning to defect tracking and managing defect life cycle.
+2. Strong knowledge in QA Principle and Software Development Life Cycle.
+3. Hands-on experience in Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC).
+4. Hands-on experience with Software Testing on Mobile, Web applications & Web Service (RESTful).
+6. Hands-on experience in Agile-Scrum Framework.
+7. Hands-on experience in creating and developing Test Plans, Test Cases, Test Scripts, Test Reports, and Defect Reports on Mobile & Web Applications for both Manual and Automation tests.
+8. Outstanding Knowledge with Java Oops Concepts (Abstraction, Encapsulation, Polymorphism & Inheritance).
+9. Hands-on experience in Designing, Creating, and maintaining a framework for web-based applications leveraging Java with Selenium WebDriver, Java binding Oops concept, TestNG, POM (Page Object Model) & Data-driven framework.
+10. Hands-on experience in executing the Smoke test, Functional Test, Integration Test, and Regression Test suite.
+11. Hands-on experience in REST API web service testing using POSTMAN & RestAssured.
+12. Hands-on experience in using Version Control tools like Git, GitHub
+13. Good understanding of Application Server and Database Server (MySQL).
 
 Environment: Java, Selenium Web Driver, TestNG, Maven, Jira, POM(Page Object Model), Postman
 
@@ -84,13 +84,13 @@ matches our goals..
   March 2017 - June 2018
 
 ####Responsibilities:
-• Configure networking LAN, WAN, VPN & Wireless Router, Switch, Router, Firewall
-• Local Mail server maintenance & Microsoft Office 365 Outlook POP3 and Exchange mail support
-• Resolve the complex issues including system crashes, network slowdowns, connectivity problems, security breaches, virus infections
-• Troubleshooting of Operating System: Windows, Linux
-• Configure & Maintenance File Server
-• ISP dealing with basic maintenance
-• Configure & Maintenance of office CCTV
+1. Configure networking LAN, WAN, VPN & Wireless Router, Switch, Router, Firewall
+2. Local Mail server maintenance & Microsoft Office 365 Outlook POP3 and Exchange mail support
+3. Resolve the complex issues including system crashes, network slowdowns, connectivity problems, security breaches, virus infections
+4. Troubleshooting of Operating System: Windows, Linux
+5. Configure & Maintenance File Server
+6. ISP dealing with basic maintenance
+7. Configure & Maintenance of office CCTV
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaBinAshraf1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/talhabin.ashraf.5 )  
 

@@ -51,57 +51,46 @@
 December 2020 – Present
 
 ####Responsibilities:  
-•	Creating and developing Test Plans, Test Cases, Test Scripts, Test Reports, and Defect Reports on Mobile & Web Applications for both Manual and Automation tests.
-•	Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC).
-•	Execute Software Testing on Web applications & Web Service (RESTful).
-•	Creating, and maintaining a framework for Mobile & web-based applications leveraging Java with Selenium WebDriver, Java binding Oops concept, TestNG, POM (Page Object Model) & Data-driven framework. 
-•	Executing Smoke test, Functional Test, Integration Test, and Regression Test suite.
-•	Executing REST API web service testing using: POSTMAN. 
-•	Creating Version Control by using tools: Git,GitHub
+• Strong understanding of STLC from test planning to defect tracking and managing defect life cycle.
+• Strong knowledge in QA Principle and Software Development Life Cycle.
+• Hands-on experience in Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC).
+• Hands-on experience with Software Testing on Mobile, Web applications & Web Service (RESTful).
+• Hands-on experience in Agile-Scrum Framework.
+• Hands-on experience in creating and developing Test Plans, Test Cases, Test Scripts, Test Reports, and Defect Reports on Mobile & Web Applications for both Manual and Automation tests.
+• Outstanding Knowledge with Java Oops Concepts (Abstraction, Encapsulation, Polymorphism & Inheritance).
+• Hands-on experience in Designing, Creating, and maintaining a framework for web-based applications leveraging Java with Selenium WebDriver, Java binding Oops concept, TestNG, POM (Page Object Model) & Data-driven framework.
+• Hands-on experience in executing the Smoke test, Functional Test, Integration Test, and Regression Test suite.
+• Hands-on experience in REST API web service testing using POSTMAN & RestAssured.
+• Hands-on experience in using Version Control tools like Git, GitHub
+• Good understanding of Application Server and Database Server (MySQL).
 
 Environment: Java, Selenium Web Driver, TestNG, Maven, Jira, POM(Page Object Model), Postman
 
-#### Software Quality Assurance Engineer | Riseup labs
-  October 2018 - November 2020
+
+#### DDCL | Software Quality Assurance Engineer
+Jul 2017 - Nov 2019 ·
 
 ####Responsibilities:
-
-•	Test the web-based, Mobile Based solution with selenium Web-driver & IDE.
-•	Execute test cases after test analysis is done 
-•	Regression test, black-box test,white-box test Sanity test.
-•	Sound knowledge SDLC, STLC & Agile-Scrum.
-•	Manual Testing 
-•	Perform retesting after fix bugs in-app 
-•	Check the app thoroughly to ensure that customer experience matches our goals
-
-
-#### Software QA Engineer | Enosis Solution
-  June 2017 - September 2018
-
-####Responsibilities:
-
-I execute software testing activities to ensure that client requirement is fulfilled, the software is free from core service disrupting bugs and proper software testing guidelines are followed. I also use test automation tools such as selenium to automate repetitive tasks such as regression testing, build download, build deployment, etc. I am familiar with project management tools like JIRA and Github issues which are used to ease the transition of project workload among team members and provide a better high-level overview of the current project status.
-
-Environment: Java, Selenium Web Driver, TestNG, Maven, Jmeter, Agile , MS Excel.
+1. Test the web-based, Mobile Based solution with selenium Web-driver & IDE.
+2. Execute test cases after test analysis.
+3. Regression test, black-box test,white-box test Sanity test.
+4.Manual Testing
+5. Perform retesting after fixing bugs in-app
+6. Check the app thoroughly to ensure that customer experience
+matches our goals..
 
 
 #### JR Network Engineer | Mozumder Group
-  March 2017 - June 2017
+  March 2017 - June 2018
 
 ####Responsibilities:
-•	Configure networking LAN, WAN, VPN & Wireless Router, Switch, Router, Firewall
-•	Local Mail server maintenance & Microsoft Office 365 Outlook POP3 and Exchange mail support
-•	Network/Share/Barcode/Printer configure and support
-•	Resolve the complex issues including system crashes, network slowdowns, connectivity problems, security breaches, virus infections
-•	Troubleshooting of Operating System: Windows, Linux
-•	Configure & Maintenance File Server
-•	Troubleshooting of any kind of computer software and hardware issues
-•	Troubleshooting any smart devices problem
-•	Oracle ERP, Tally, MIS software support
-•	ISP dealing with basic maintenance
-•	Configure & Maintenance of office CCTV
-
-
+• Configure networking LAN, WAN, VPN & Wireless Router, Switch, Router, Firewall
+• Local Mail server maintenance & Microsoft Office 365 Outlook POP3 and Exchange mail support
+• Resolve the complex issues including system crashes, network slowdowns, connectivity problems, security breaches, virus infections
+• Troubleshooting of Operating System: Windows, Linux
+• Configure & Maintenance File Server
+• ISP dealing with basic maintenance
+• Configure & Maintenance of office CCTV
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaBinAshraf1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/talhabin.ashraf.5 )  
 

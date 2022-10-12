@@ -10,12 +10,12 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
  
 🔹 Automation Framework Design.</br>
 🔹 Selenium WebDriver with Java.</br>
-🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.
-🔹 TestNG, Maven, NPM.
-🔹 Version Control tools- GitHub,GitLab.
-🔹 Page Object Model with Page Factory and Data-Driven Concept.
-🔹 POSTMAN, RestAssured, RESTful API. 
-🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.
+🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.</br>
+🔹 TestNG, Maven, NPM.</br>
+🔹 Version Control tools- GitHub,GitLab.</br>
+🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>
+🔹 POSTMAN, RestAssured, RESTful API. </br>
+🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
  
 
 

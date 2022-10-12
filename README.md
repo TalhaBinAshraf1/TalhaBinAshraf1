@@ -1,10 +1,5 @@
 ![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
 
-<div>
-<img height="22em" align="right" 
-     src="https://komarev.com/ghpvc/?username=TalhaBinAshraf1&label ░  =Profile%20Views&color=FF1919&style=flat" alt="nayem"  height="30"/>
-
-
 ### Hey, This is Talha Bin Ashraf 
 #### Full stack SQA Engineeer at GiTS 🤵
 #### Contact Details: 

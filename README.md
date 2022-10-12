@@ -3,8 +3,8 @@
 ### Hey, This is Talha Bin Ashraf 
 #### Full stack SQA Engineeer at GiTS 🤵
 #### Contact Details: 
-                      📲  +880 1763450570  
-                      📨  Email: talhabinashraf@gmail.com
+                      📲 Cell Number:   +880 1763450570  
+                      📨 Email:         talhabinashraf@gmail.com
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).

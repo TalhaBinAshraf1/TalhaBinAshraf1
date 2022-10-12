@@ -1,8 +1,9 @@
 ![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
 
-### Hey, this is Talha Bin Ashraf 
+### Hey, This is Talha Bin Ashraf 
 #### Full stack SQA Engineeer at GiTS 🤵
-#### Contact Details: 📲  +880 1763450570 | 📨 Email: talhabinashraf@gmail.com
+#### Contact Details: 📲  +880 1763450570  
+                      📨  Email: talhabinashraf@gmail.com </br>
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).

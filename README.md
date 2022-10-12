@@ -8,8 +8,8 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 
 ✅  Technical Skills  ✅
  
-<br>🔹 Automation Framework Design.</br>
-<br>🔹 Selenium WebDriver with Java.</br>
+🔹 Automation Framework Design.</br>
+🔹 Selenium WebDriver with Java.</br>
 🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.
 🔹 TestNG, Maven, NPM.
 🔹 Version Control tools- GitHub,GitLab.

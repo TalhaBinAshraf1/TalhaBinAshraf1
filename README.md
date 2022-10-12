@@ -1,12 +1,22 @@
+![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
+
 ### Hi there 👋, Hey, this is Talha Bin Ashraf 
 #### Full stack SQA Engineeer at GiTS 🤵
-![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
+![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 
-Skills: 🔹Automation Framework Design
-
-- 🔭 I’m currently working on this page. 
+✅  Technical Skills  ✅
+ 
+🔹 Automation Framework Design.
+🔹 Selenium WebDriver with Java.
+🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.
+🔹 TestNG, Maven, NPM.
+🔹 Version Control tools- GitHub,GitLab.
+🔹 Page Object Model with Page Factory and Data-Driven Concept.     
+🔹 POSTMAN, RestAssured, RESTful API. 
+🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaBinAshraf1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/talha-bin-ashraf-sqa//)  
@@ -23,4 +33,4 @@ Skills: 🔹Automation Framework Design
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TalhaBinAshraf1)  
 
-![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
+

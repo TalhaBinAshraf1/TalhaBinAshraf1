@@ -12,6 +12,9 @@
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ✅  Technical Skills  ✅
  
 🔹 Automation Framework Design.</br>

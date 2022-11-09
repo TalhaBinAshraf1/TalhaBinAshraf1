@@ -1,5 +1,7 @@
 ![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ### Hey, This is Talha Bin Ashraf 
 #### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
 #### Contact Details: 

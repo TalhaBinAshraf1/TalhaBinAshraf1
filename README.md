@@ -6,8 +6,8 @@
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
-
-##Visitor- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=TalhaBinAshraf1.TalhaBinAshraf1)
+                      
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=TalhaBinAshraf1.TalhaBinAshraf1)
 
 <![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 

@@ -6,8 +6,10 @@
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
-  
-![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
+
+##Visitor- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=TalhaBinAshraf1.TalhaBinAshraf1)
+
+<![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 

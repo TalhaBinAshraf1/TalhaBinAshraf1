@@ -1,3 +1,16 @@
+<!--
+<div id="Book a Call" align="right">
+ <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
+     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+  </a>
+ </div>
+
+ <div id="header" align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/D4D3DAQFS56T2APfpUg/image-scale_191_1128/0/1667932323350?e=1668589200&v=beta&t=-R6o4Lh6-gvLgnx0mZaqTjSpizp-s6LKhNiivYFisv4" width="1000"/>
+</div>
+
+-->
+
 ![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
 
 ### Hey, This is Talha Bin Ashraf 

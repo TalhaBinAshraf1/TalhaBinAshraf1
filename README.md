@@ -39,6 +39,14 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 🔹 POSTMAN, RestAssured, RESTful API. </br>
 🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
 
+  <div id="Badge">
+
+  <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+ </div>
+
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  
  

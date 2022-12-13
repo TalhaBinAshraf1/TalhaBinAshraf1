@@ -38,13 +38,14 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>
 🔹 POSTMAN, RestAssured, RESTful API. </br>
 🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
- 
+
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaBinAshraf1&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/TalhaBinAshraf1)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TalhaBinAshraf1)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TalhaBinAshraf1) -->
 
 

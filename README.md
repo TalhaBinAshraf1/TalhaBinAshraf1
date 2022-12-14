@@ -13,16 +13,14 @@
 
 ![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
 
-### Hey, This is Talha Bin Ashraf 
-  
-#### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
-#### Contact Details: 
+### Hey, This is Talha Bin Ashraf  
+###### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
+###### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
                       
                       
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=TalhaBinAshraf1.TalhaBinAshraf1)
-
 
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 

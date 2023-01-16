@@ -10,8 +10,8 @@
 </div>
 
 ### Hey, This is Talha Bin Ashraf  
-###### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
-###### Contact Details: 
+#### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
+#### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
                       

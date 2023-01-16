@@ -5,12 +5,9 @@
   </a>
  </div>
 
-
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1679529600&v=beta&t=gzCYXBguRKKiTWZmxh_KFlHVdt0CTQwEsEZ1eNmtyAg" width="1000"/>
 </div>
-
-![Full stack SQA Engineeer at GiTS 🤵](https://media-exp1.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1671062400&v=beta&t=F192lAPV70nMzmKirdlZxHIVl4a4slH1_IanKx4eFa4)
 
 ### Hey, This is Talha Bin Ashraf  
 ###### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵

@@ -5,7 +5,7 @@
   </a>
  </div>
  
-## <picture><img src = "https://giphy.com/embed/l3vR85PnGsBwu1PFK" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width = 50px></picture> **About me**
 
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1679529600&v=beta&t=gzCYXBguRKKiTWZmxh_KFlHVdt0CTQwEsEZ1eNmtyAg" width="1000"/>

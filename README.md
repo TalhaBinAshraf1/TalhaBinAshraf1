@@ -19,7 +19,7 @@
                       
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=TalhaBinAshraf1.TalhaBinAshraf1)
 
-## <picture><img src = "https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width = 30px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width = 20px></picture> **About me**
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 
 

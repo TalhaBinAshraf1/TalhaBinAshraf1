@@ -9,7 +9,7 @@
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1679529600&v=beta&t=gzCYXBguRKKiTWZmxh_KFlHVdt0CTQwEsEZ1eNmtyAg" width="1000"/>
 </div>
 
-## <picture><img src = "https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width = 150px></picture> 
+## <picture><img src = "https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width = 100px></picture> 
 ### Hey, This is Talha Bin Ashraf  
 #### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
 #### Contact Details: 

@@ -4,8 +4,8 @@
      <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
   </a>
  </div>
-
-<iframe src="https://giphy.com/embed/l3vR85PnGsBwu1PFK" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mmoire-l3vR85PnGsBwu1PFK">via GIPHY</a></p>
+ 
+## <picture><img src = ""https://giphy.com/embed/l3vR85PnGsBwu1PFK" width = 50px></picture> **About me**
 
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1679529600&v=beta&t=gzCYXBguRKKiTWZmxh_KFlHVdt0CTQwEsEZ1eNmtyAg" width="1000"/>

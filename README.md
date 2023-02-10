@@ -43,6 +43,8 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
   </a>
  
  </div>
+ 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  

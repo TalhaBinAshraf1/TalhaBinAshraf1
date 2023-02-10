@@ -47,7 +47,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
  </div>
  
 [<img src="https://icon.vimalverma.in/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)
-[<img src="https://icon.vimalverma.in/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/talhabinashraf)
+[<img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="30px">](https://twitter.com/talhabinashraf)
 
 
 <img src="https://logo.letskhabar.com/img/?tool=selenium&bgc=gold&acol=red" width="50px">

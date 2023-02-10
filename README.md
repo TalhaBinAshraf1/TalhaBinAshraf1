@@ -51,7 +51,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 
 
 <img src="https://logo.letskhabar.com/img/?tool=selenium&bgc=gold&acol=red" width="50px">
-<img src="https://logo.letskhabar.com/img/?tool=jb_IJ_IDEA&bgc=gold&acol=red" alt="jb_IJ_IDEA">
+<img src="https://logo.letskhabar.com/img/?tool=jb_IJ_IDEA&bgc=gold&acol=red" width="50px">
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <

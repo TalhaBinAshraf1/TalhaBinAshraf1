@@ -23,6 +23,7 @@
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 
+## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fline-neon-colorful-straigt-line-gif-17184892&psig=AOvVaw32s_kxf-CvfaLwFIhcDZnP&ust=1676119382647000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIie2t79iv0CFQAAAAAdAAAAABAb" width = 25px></picture>
 
 
 ✅  Technical Skills  ✅
@@ -45,8 +46,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
  </div>
  
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<picture><img src = "https://tenor.com/bkgJQ.gif"></picture> 
-
+<
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  
  

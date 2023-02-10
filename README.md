@@ -50,7 +50,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 [<img src="https://icon.vimalverma.in/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/talhabinashraf)
 
 
-<img src="https://logo.letskhabar.com/img/?tool=jb_IJ_IDEA&bgc=gold&acol=red" alt="jb_IJ_IDEA">
+[<img src="https://logo.letskhabar.com/img/?tool=jb_IJ_IDEA&bgc=gold&acol=red" alt="jb_IJ_IDEA">]
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <

@@ -16,6 +16,19 @@
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
+ 
+###Connect With Me:                     
+  <div id="Badge">
+
+  <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+   <a href="https://twitter.com/talhabinashraf">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ </div>
+ 
                      
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
 
@@ -34,24 +47,14 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 🔹 POSTMAN, RestAssured, RESTful API. </br>
 🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
 
-  <div id="Badge">
 
-  <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-   <a href="https://twitter.com/talhabinashraf">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
-  </a>
- </div>
- 
 <!-- 
 [<img src="https://icon.vimalverma.in/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)
 [<img src="https://icon.vimalverma.in/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/talhabinashraf)
 -->
 
-<img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="30px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="30px">
-<img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="30px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="30px">
+<img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="35px">
+<img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="35px">
 
 
 <!--

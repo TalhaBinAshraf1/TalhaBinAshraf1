@@ -53,9 +53,10 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 <img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="30px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="30px">
 <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="30px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="30px">
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<
+
 <!--
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaBinAshraf1&show_icons=true)  

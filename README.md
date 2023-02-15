@@ -16,22 +16,20 @@
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
- 
-## Connect With Me:                     
+                  
   <div id="Badge">
-
+    ## Connect With Me:  
   <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+
   <a href="https://twitter.com/talhabinashraf">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
- 
-  <div id="header" align="center">                    
+                   
 ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
- </div> 
+
  
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**
 Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).

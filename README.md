@@ -18,7 +18,7 @@
                       📨 Email:         talhabinashraf@gmail.com
                   
   <div id="Badge">
- <h2> Connect With Me: <\h2> 
+ <h2> Connect With Me:
   <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
   <a href="https://twitter.com/talhabinashraf">

@@ -25,7 +25,7 @@
  </br>
 <!-- ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)   -->
   <a href="https://github.com/TalhaBinAshraf1">
-  <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 25px;">
+  <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 22px;">
 </a>
 
  

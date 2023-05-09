@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
   <a href="https://twitter.com/talhabinashraf">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/> 
-                   
+     </a>              
 <!-- ![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)   -->
   <a href="https://github.com/TalhaBinAshraf1">
   <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 200px; height: 20px;">

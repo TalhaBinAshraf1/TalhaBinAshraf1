@@ -51,6 +51,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 
 <img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="35px">
 <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="35px">
+<img src="https://logo.letskhabar.com/img/?tool=java&acol=gold" width="35px">
 
 
 <!--

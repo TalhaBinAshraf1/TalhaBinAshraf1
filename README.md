@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/> 
      </a>    
  </br>
-![Profile views](https://gpvc.arturio.dev/TalhaBinAshraf1)  
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)
   <a href="https://github.com/TalhaBinAshraf1">
   <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 22px;">
 </a>

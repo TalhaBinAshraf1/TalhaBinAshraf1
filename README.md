@@ -23,10 +23,15 @@
      </a>    
  </br>
  
-![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/msz5213/count.svg" />
+</p>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)
   <a href="https://github.com/TalhaBinAshraf1">
   <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 22px;">
-</a>
+</a> -->
 
  
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**

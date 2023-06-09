@@ -3,7 +3,6 @@
  <a href="https://calendly.com/talhabinashraf/30min">
      <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
   </a>
- 
   <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />

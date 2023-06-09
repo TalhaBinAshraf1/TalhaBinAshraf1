@@ -23,9 +23,9 @@
      </a>    
  </br>
  
- <p align="center"> 
+ <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/msz5213/count.svg" />
+  <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
 </p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)

@@ -3,10 +3,6 @@
  <a href="https://calendly.com/talhabinashraf/30min">
      <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
   </a>
-  <p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
-  </p>
  </div>
  
  <div id="header" align="center">
@@ -26,7 +22,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/> 
      </a>    
  </br>
- 
+   <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
+  </p>
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)
   <a href="https://github.com/TalhaBinAshraf1">
   <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 22px;">

@@ -1,7 +1,7 @@
 
 <div id="Book a Call" align="right">
  <a href="https://calendly.com/talhabinashraf/30min">
-     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+     <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1701302400&v=beta&t=fvDlGyEBb7EEHM5J-uTzBabtLamtFgJ0ZvHQ9LtrrOI" alt="Calendly Badge"/>
   </a>
  </div>
  
@@ -11,7 +11,7 @@
 
 
 ### Hey, This is Talha Bin Ashraf  
-#### Full stack SQA Engineeer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
+#### Full stack SQA Engineer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com

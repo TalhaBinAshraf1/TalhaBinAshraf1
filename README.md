@@ -4,7 +4,7 @@
      <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1701302400&v=beta&t=fvDlGyEBb7EEHM5J-uTzBabtLamtFgJ0ZvHQ9LtrrOI" alt="Calendly Badge"/>
   </a>
  </div>
- 
+ >>
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1691625600&v=beta&t=TMy42OacvHFiF8tfi2kLbFYrP9_qNEjNv7qADxYRAlg" width="1000"/>
 </div>
@@ -33,7 +33,7 @@
 
  
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**
-Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
+Experience in Software Testing, hands-on Manual and automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
 
 
 ✅  Technical Skills  ✅
@@ -42,7 +42,7 @@ Experience in Software Testing, hands-on Manual & Automation leveraging Selenium
 🔹 Selenium WebDriver with Java.</br>
 🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.</br>
 🔹 TestNG, Maven, NPM.</br>
-🔹 Version Control tools- GitHub,GitLab.</br>
+🔹 Version Control tools- GitHub, GitLab.</br>
 🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>
 🔹 POSTMAN, RestAssured, RESTful API. </br>
 🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>

@@ -1,4 +1,3 @@
-
 <div id="Book a Call" align="right">
  <a href="https://calendly.com/talhabinashraf/30min">
      <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1701302400&v=beta&t=fvDlGyEBb7EEHM5J-uTzBabtLamtFgJ0ZvHQ9LtrrOI"/>

@@ -1,7 +1,8 @@
 <div id="Book a Call" align="right">
- <a href="https://calendly.com/talhabinashraf/30min">
-     <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1701302400&v=beta&t=fvDlGyEBb7EEHM5J-uTzBabtLamtFgJ0ZvHQ9LtrrOI"/>
-  </a>
+  <a href="https://calendly.com/talhabinashraf/30min">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Calendly Badge"/> 
+     </a>  
+ 
  </div>
 
  <div id="header" align="center">
@@ -16,7 +17,8 @@
                       📨 Email:         talhabinashraf@gmail.com
              
   <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+     </a>  
   <a href="https://twitter.com/talhabinashraf">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/> 
      </a>    

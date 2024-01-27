@@ -1,8 +1,7 @@
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
-    <img src="https://img.shields.io/badge/Calendly-red?style=for-the-badge&logo=calendly&logoColor=White" alt="Book a Call"/> 
-     </a>  
- 
+    <img src="https://img.shields.io/badge/Calendly-red?style=for-the-badge&logo=Book a Call&logoColor=White" alt="Book a Call"/> 
+  </a>  
  </div>
 
  <div id="header" align="center">

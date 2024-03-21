@@ -1,11 +1,11 @@
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
-    <img src="https://img.shields.io/badge/Calendly-red?style=for-the-badge&logo=Book a Call&logoColor=White" alt= "Book a Call"/> 
+    <img src="https://img.shields.io/badge/Calendly-white?style=for-the-badge&logo=Book a Call&logoColor=White" alt= "Book a Call"/> 
   </a>  
  </div>
 
-<a href="https://calendly.com/talhabinashraf/30min"><button> Book a Call !</button></a>
-
+<!-- <a href="https://calendly.com/talhabinashraf/30min"><button> Book a Call !</button></a>
+-->
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1716422400&v=beta&t=Q4G8_FCFZDRNTI6izYjgWZs7srkDr7UAvBAhB69EGtU" width="1000"/>
 </div>

@@ -5,7 +5,7 @@
  </div>
 
  <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021086?e=1691625600&v=beta&t=TMy42OacvHFiF8tfi2kLbFYrP9_qNEjNv7qADxYRAlg" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1716422400&v=beta&t=Q4G8_FCFZDRNTI6izYjgWZs7srkDr7UAvBAhB69EGtU" width="1000"/>
 </div>
 
 

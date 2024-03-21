@@ -43,6 +43,8 @@ Experience in Software Testing, hands-on Manual and automation leveraging Seleni
 🔹 Automation Framework Design.</br>
 🔹 Selenium WebDriver with Java.</br>
 🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.</br>
+🔹 Web Driver IO (WDIO), JS, Node JS, mocha, Chai.</br>
+🔹 Appium, WDIO, JS, Node JS, mocha, Chai.</br>
 🔹 TestNG, Maven, NPM.</br>
 🔹 Version Control tools- GitHub, GitLab.</br>
 🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>

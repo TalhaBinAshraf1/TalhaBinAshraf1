@@ -39,7 +39,7 @@
 
 🔹I am well-versed in Agile methodologies, particularly Scrum, and I ensure that test execution is efficient by developing well-defined test plans. I have extensive experience in a variety of domains, including contributions to US tech resourcing (GITS), Apple products with Softzino Technologies. I firmly believe in continuous improvement and am always looking for ways to stay ahead of the curve by embracing forward-thinking approaches. I am highly motivated to achieve excellence in everything I do and am confident that my skills and experience make me a valuable asset to any team.
 
-## ✅ ::::: Skills ::::: ✅ 
+ ✅ ::::: Skills ::::: ✅ 
 
 🔹  Test Automation</br>
 🔹  Selenium with Java</br>

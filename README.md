@@ -41,19 +41,19 @@
 
 ✅ ::::: Skills ::::: ✅ 
 
-🔹  Test Automation
-🔹  Selenium with Java
-🔹  Cypress with JS
-🔹  WDIO with JS
-🔹  Agile-Scrum Methodology
-🔹  REST API Testing
-🔹  Mobile App Testing
-🔹  Jira & Jira plugin for Test cases – Zephyr & X-ray, Agile-Scrum, STLC, SDLC
-🔹  TestNG, Maven, Git, GitHub, RESTful API, POSTMAN.
-🔹  Page Object Model with Page Factory and Data-Driven Concept
-🔹  Hands-on experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.
+🔹  Test Automation</br>
+🔹  Selenium with Java</br>
+🔹  Cypress with JS</br>
+🔹  WDIO with JS</br>
+🔹  Agile-Scrum Methodology</br>
+🔹  REST API Testing</br>
+🔹  Mobile App Testing</br>
+🔹  Jira & Jira plugin for Test cases – Zephyr & X-ray, Agile-Scrum, STLC, SDLC</br>
+🔹  TestNG, Maven, Git, GitHub, RESTful API, POSTMAN.</br>
+🔹  Page Object Model with Page Factory and Data-Driven Concept</br>
+🔹  Hands-on experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
 🔹  Cross-Functional Team Collaboration
-🔹  Attention to Detail
+🔹  Attention to Detail</br>
 🔹  Product Delivery Excellence</br>
 
 

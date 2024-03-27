@@ -35,21 +35,26 @@
 
  
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**
-Experience in Software Testing, hands-on Manual and automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
+🔹As a results-oriented SQA and Test Automation professional, I take great pride in my work and am highly dedicated to creating top-quality software that shortens the test execution time, finds bugs easily and finally pushes the ROI.  My expertise in robust testing ecosystems and automation tools such as Selenium, Cypress, WDIO, and Appium has grown significantly over the past 4 years, and I am always eager to learn more.
 
+🔹I am well-versed in Agile methodologies, particularly Scrum, and I ensure that test execution is efficient by developing well-defined test plans. I have extensive experience in a variety of domains, including contributions to US tech resourcing (GITS), Apple products with Softzino Technologies. I firmly believe in continuous improvement and am always looking for ways to stay ahead of the curve by embracing forward-thinking approaches. I am highly motivated to achieve excellence in everything I do and am confident that my skills and experience make me a valuable asset to any team.
 
-✅  Technical Skills  ✅
- 
-🔹 Automation Framework Design.</br>
-🔹 Selenium WebDriver with Java.</br>
-🔹 Cypress, JS, Node JS, jasmine, mocha, Chai.</br>
-🔹 Web Driver IO (WDIO), JS, Node JS, mocha, Chai.</br>
-🔹 Appium, WDIO, JS, Node JS, mocha, Chai.</br>
-🔹 TestNG, Maven, NPM.</br>
-🔹 Version Control tools- GitHub, GitLab.</br>
-🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>
-🔹 POSTMAN, RestAssured, RESTful API. </br>
-🔹 Outstanding experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
+✅ ::::: Skills ::::: ✅ 
+
+🔹  Test Automation
+🔹  Selenium with Java
+🔹  Cypress with JS
+🔹  WDIO with JS
+🔹  Agile-Scrum Methodology
+🔹  REST API Testing
+🔹  Mobile App Testing
+🔹  Jira & Jira plugin for Test cases – Zephyr & X-ray, Agile-Scrum, STLC, SDLC
+🔹  TestNG, Maven, Git, GitHub, RESTful API, POSTMAN.
+🔹  Page Object Model with Page Factory and Data-Driven Concept
+🔹  Hands-on experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.
+🔹  Cross-Functional Team Collaboration
+🔹  Attention to Detail
+🔹  Product Delivery Excellence</br>
 
 
 <!-- 

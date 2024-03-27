@@ -17,7 +17,7 @@
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com
              
-  <a href="https://www.linkedin.com/in/talha-bin-ashraf-sqa/">
+  <a href="https://www.linkedin.com/in/talha-sqa-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
      </a>  
   <a href="https://twitter.com/talhabinashraf">

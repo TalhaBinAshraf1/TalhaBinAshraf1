@@ -47,7 +47,7 @@
 🔹  WDIO with JS</br>
 🔹  Agile-Scrum Methodology</br>
 🔹  REST API Testing</br>
-🔹  Mobile App Testing</br>
+🔹  Mobile App Testing with Appium by WDIO </br>
 🔹  Jira & Jira plugin for Test cases – Zephyr & X-ray, Agile-Scrum, STLC, SDLC</br>
 🔹  TestNG, Maven, Git, GitHub, RESTful API, POSTMAN.</br>
 🔹  Page Object Model with Page Factory and Data-Driven Concept</br>

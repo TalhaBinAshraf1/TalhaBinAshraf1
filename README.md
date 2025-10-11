@@ -1,6 +1,6 @@
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbdmortgageservices.co.uk%2Fhealth-insurance%2F&psig=AOvVaw0Uq5-cwu_pGut_f30TkE6r&ust=1760238606846000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD3svmVm5ADFQAAAAAdAAAAABAE" alt= "Book a Call"/> 
+    <img src="https://iconscout.com/lottie-animation/book-a-call-animated-icon_10306717" alt= "Book a Call"/> 
   </a>  
  </div>
 

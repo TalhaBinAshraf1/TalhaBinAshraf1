@@ -7,12 +7,12 @@
 <!-- <a href="https://calendly.com/talhabinashraf/30min"><button> Book a Call !</button></a>
 -->
  <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1724284800&v=beta&t=sFRDkyWdol6899h8qxY6Ghx2liD64hfWyWumwrrqZWA" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1762992000&v=beta&t=VQbuCwXPWixYL1GDIYEYx1DnAl6N453uvWWfhwiX-1g" width="1000"/>
 </div>
 
 
 ### Hey, This is Talha Bin Ashraf  
-#### Full stack SQA Engineer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
+#### Full-stack SQA Engineer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
 #### Contact Details: 
                       📲 Cell Number/WhatsApp:   +880 1763450570  
                       📨 Email:         talhabinashraf@gmail.com

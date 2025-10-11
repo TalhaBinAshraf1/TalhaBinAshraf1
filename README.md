@@ -1,6 +1,6 @@
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
-    <img src="https://iconscout.com/lottie-animation/book-a-call-animated-icon_10306717" alt= "Book a Call"/> 
+   <img src="https://iconscout.com/lottie-animation/book-a-call-animated-icon_10306717" alt="Book a Call"/>
   </a>  
  </div>
 

@@ -8,7 +8,7 @@
 <!-- <a href="https://calendly.com/talhabinashraf/30min"><button> Book a Call !</button></a>
 -->
  <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1769040000&v=beta&t=V1r6gwm0pBqGtC3hmngZKD9DUVVoul4MPkGGEO3XWyc" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1778112000&v=beta&t=E53LoIMqdr3cSJo5tk8miJX00Q1UFOOHTdwQPUxfnfo" width="1000"/>
 </div>
 
 

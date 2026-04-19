@@ -1,4 +1,3 @@
-<!--
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
     <p> Let's Book a Call </p>
@@ -60,23 +59,19 @@
 <img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="35px">
 <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="35px">
 <img src="https://icon.vimalverma.in/img?tool=git&bgc=null&acol=gold" width="32px">  <img src="https://icon.vimalverma.in/img?tool=github&bgc=null&acol=gold" width="32px">
--->
-<!--
-Previous Code 
--->
+
+![](https://github-readme-stats.shion.dev/api?username=TalhaBinAshraf1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=TalhaBinAshraf1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TalhaBinAshraf1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- Commented Block
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-bin-ashraf-sqa/)  
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaBinAshraf1&show_icons=true)  
+-->
 
-![GitHub metrics](https://metrics.lecoq.io/TalhaBinAshraf1)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TalhaBinAshraf1) -->
-
-
+<!--
                                                         # 💫 About Me:
 🔹As a results-oriented SQA and Test Automation professional, I take great pride in my work and am highly dedicated to creating top-quality software that shortens the test execution time, finds bugs easily and finally pushes the ROI.  My expertise in robust testing ecosystems and automation tools such as Selenium, Cypress, WDIO, and Appium has grown significantly over the past 4 years, and I am always eager to learn more.
 
@@ -101,7 +96,7 @@ Previous Code
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talha-sqa-engineer/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Talha Bin Ashraf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhabinashraf@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talha-sqa-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhabinashraf@gmail.com) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)

@@ -76,7 +76,6 @@ Previous Code
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TalhaBinAshraf1) -->
 
-                                                        <!--New One -- >
 
                                                         # 💫 About Me:
 🔹As a results-oriented SQA and Test Automation professional, I take great pride in my work and am highly dedicated to creating top-quality software that shortens the test execution time, finds bugs easily and finally pushes the ROI.  My expertise in robust testing ecosystems and automation tools such as Selenium, Cypress, WDIO, and Appium has grown significantly over the past 4 years, and I am always eager to learn more.

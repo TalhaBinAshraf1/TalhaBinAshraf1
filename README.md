@@ -51,15 +51,12 @@
 🔹  Product Delivery Excellence</br>
 
 
-
-
 <img src="https://icon.vimalverma.in/img?tool=selenium&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=jb_IJ_IDEA&acol=gold" width="35px">
 <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="35px"> <img src="https://icon.vimalverma.in/img?tool=javascript&acol=gold" width="35px">
 <img src="https://icon.vimalverma.in/img?tool=git&bgc=null&acol=gold" width="32px">  <img src="https://icon.vimalverma.in/img?tool=github&bgc=null&acol=gold" width="32px">
 
 ![](https://github-readme-stats.shion.dev/api?username=TalhaBinAshraf1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TalhaBinAshraf1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TalhaBinAshraf1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- Commented Block
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

@@ -24,12 +24,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/> 
      </a>    
  </br>
-   <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
-  </p>
-
-  [![](https://komarev.com/ghpvc/?username=TalhaBinAshraf1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 

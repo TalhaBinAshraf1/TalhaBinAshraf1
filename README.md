@@ -29,6 +29,9 @@
   <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
   </p>
 
+  [![](https://komarev.com/ghpvc/?username=TalhaBinAshraf1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
  
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**

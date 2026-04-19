@@ -29,6 +29,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TalhaBinAshraf1/count.svg" />
   </p>
+
+  <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TalhaBinAshraf1)
   <a href="https://github.com/TalhaBinAshraf1">
   <img src="https://gpvc.arturio.dev/TalhaBinAshraf1" alt="Profile views" style="width: 220px; height: 22px;">

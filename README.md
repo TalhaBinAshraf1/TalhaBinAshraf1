@@ -1,10 +1,9 @@
 <div id="Book a Call" align="right">
   <a href="https://calendly.com/talhabinashraf/30min">
     <p> Let's Book a Call </p>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-calendly-icon-svg-download-png-10221909.png?f=webp&w=512" alt="Book a Call" width="90"/>
+   <img src="https://cdn.iconscout.com/icon/free/png-512/free-calendly-icon-svg-download-png-10221909.png?f=webp&w=512" alt="Book a Call" width="50"/>
   </a>  
  </div>
-
 
  <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/v2/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1778112000&v=beta&t=E53LoIMqdr3cSJo5tk8miJX00Q1UFOOHTdwQPUxfnfo" width="1000"/>

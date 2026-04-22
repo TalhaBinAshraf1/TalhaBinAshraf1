@@ -44,7 +44,7 @@
 🔹  TestNG, Maven, Git, GitHub, RESTful API, POSTMAN.</br>
 🔹  Page Object Model with Page Factory and Data-Driven Concept</br>
 🔹  Hands-on experience with manual testing using JIRA, ALM, Xray, Zephyr, and Excel.</br>
-🔹  Cross-Functional Team Collaboration
+🔹  Cross-Functional Team Collaboration </br>
 🔹  Attention to Detail</br>
 🔹  Product Delivery Excellence</br>
 

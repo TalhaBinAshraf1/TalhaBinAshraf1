@@ -25,7 +25,6 @@
 
 
 
- 
 ## <picture><img src = "https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" width = 25px></picture>  **About me**
 🔹As a results-oriented SQA and Test Automation professional, I take great pride in my work and am highly dedicated to creating top-quality software that shortens the test execution time, finds bugs easily and finally pushes the ROI.  My expertise in robust testing ecosystems and automation tools such as Selenium, Cypress, WDIO, and Appium has grown significantly over the past 4 years, and I am always eager to learn more.
 

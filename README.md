@@ -8,7 +8,6 @@
   <img src="https://media.licdn.com/dms/image/v2/C4E16AQEpXpaXNUxriQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652303021863?e=1778112000&v=beta&t=E53LoIMqdr3cSJo5tk8miJX00Q1UFOOHTdwQPUxfnfo" width="1000"/>
 </div>
 
-
 ### Hey, This is Talha Bin Ashraf  
 #### Full-stack SQA Engineer at Global iTech Solutions (GITS)| Queens, New York, United States 🤵
 #### Contact Details: 
